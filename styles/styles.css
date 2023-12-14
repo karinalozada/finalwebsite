@@ -1,0 +1,93 @@
+p {
+    font-family: "gelica", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    color: black;
+
+}
+
+h2 {
+
+    font-family: "acumin-pro", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: #24418f;
+    text-align: center;
+}
+
+div.column {
+    float: right;
+    width: 40%;
+}
+
+div.row {
+    float: right;
+    width: 50%;
+}
+
+div {
+    text-align: left;
+
+}
+
+body {
+    font-size: 25px;
+    font-family: "gelica", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: ;
+    margin: 0;
+    overflow: auto;
+    height: 100%;
+    width: 100%;
+}
+
+html {
+    height: 100%;
+    overflow: hidden;
+
+}
+
+body.succes {
+    background-repeat: ;
+    background-size: cover;
+    background-image: url("");
+}
+
+}
+
+div.succes {
+
+    text-align: center;
+}
+
+div.rectangle1 {
+    width: 1820px;
+    height: 50px;
+    border-bottom-color: #3763AE;
+    background-color: #3763AE;
+}
+
+div.rectangle {
+    object-fit: cover;
+}
+
+.container:hover .overlay {
+    opacity: 1;
+}
+
+.image {
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+div.padding {
+    padding-left: 5%;
+}
+
+div.righta {
+    text-align: center;
+}
